@@ -3,3 +3,5 @@ displayName: Tweaks
 author: NiChrosia
 description: "Adds several settings for additional graphical content."
 minGameVersion: 126
+hidden: true
+version: 0.2

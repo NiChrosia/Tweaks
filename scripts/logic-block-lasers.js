@@ -40,4 +40,6 @@ let logicLaserEffect = new Effect(10, e => {
 	}
 });
 
-Events.run(Trigger.update, () => {logicLaserEffect.at(Vars.player.x, Vars.player.y)});
+Events.run(Trigger.update, () => {
+    logicLaserEffect.at(Vars.player.x, Vars.player.y)
+});
