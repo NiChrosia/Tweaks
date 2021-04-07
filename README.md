@@ -1,2 +1,2 @@
 # Tweaks
-Adds several settings for additional graphical content.
+Adds several additional settings, for additional graphical content and for access of console, cliffs, and custom map size.
